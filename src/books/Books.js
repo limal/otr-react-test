@@ -13,7 +13,7 @@ const Books = ({ history, match: { params }, ...props }) => {
   const inputQuery = useRef(null);
   const [books, setBooks] = useState({ books: [], count: 0 });
   const [query, setQuery] = useState("");
-  const currentPageFromUrl = parseInt(params.page);
+  const currentPageFromUrl = parseInt(params.page) || 1;
 
   const handleKeyDown = async e => {
     if (e.keyCode === 13) {

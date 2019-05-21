@@ -10,7 +10,7 @@ function App() {
       <div className="App">
         <h3 className="App__Header">Lukasz Wolnik's Greek book search</h3>
         <Switch>
-          <Route path={"/:page"} component={Books} />
+          <Route path={"/:page?"} component={Books} />
         </Switch>
       </div>
     </Router>
