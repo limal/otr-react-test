@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/otr-react-test/static/css/main.efd156d6.chunk.css",
-    "main.js": "/otr-react-test/static/js/main.aad81da2.chunk.js",
-    "main.js.map": "/otr-react-test/static/js/main.aad81da2.chunk.js.map",
-    "runtime~main.js": "/otr-react-test/static/js/runtime~main.01447df6.js",
-    "runtime~main.js.map": "/otr-react-test/static/js/runtime~main.01447df6.js.map",
-    "static/js/2.d2ee93fa.chunk.js": "/otr-react-test/static/js/2.d2ee93fa.chunk.js",
-    "static/js/2.d2ee93fa.chunk.js.map": "/otr-react-test/static/js/2.d2ee93fa.chunk.js.map",
-    "index.html": "/otr-react-test/index.html",
-    "precache-manifest.ed64c485da013dba0f396773c9ea64ce.js": "/otr-react-test/precache-manifest.ed64c485da013dba0f396773c9ea64ce.js",
-    "service-worker.js": "/otr-react-test/service-worker.js",
-    "static/css/main.efd156d6.chunk.css.map": "/otr-react-test/static/css/main.efd156d6.chunk.css.map"
+    "main.css": "/static/css/main.efd156d6.chunk.css",
+    "main.js": "/static/js/main.aad81da2.chunk.js",
+    "main.js.map": "/static/js/main.aad81da2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d2ee93fa.chunk.js": "/static/js/2.d2ee93fa.chunk.js",
+    "static/js/2.d2ee93fa.chunk.js.map": "/static/js/2.d2ee93fa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ef3873cbbded3911285496486cd5044e.js": "/precache-manifest.ef3873cbbded3911285496486cd5044e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.efd156d6.chunk.css.map": "/static/css/main.efd156d6.chunk.css.map"
   }
 }

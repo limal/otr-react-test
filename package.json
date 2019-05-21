@@ -1,7 +1,7 @@
 {
   "name": "otr-react-test",
   "version": "0.1.0",
-  "homepage": "https://limal.github.io/otr-react-test",
+  "homepage": "http://otr-react-test.wblock.uk",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
