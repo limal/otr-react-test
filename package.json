@@ -1,7 +1,6 @@
 {
   "name": "otr-react-test",
   "version": "0.1.0",
-  "homepage": "http://otr-react-test.wblock.uk",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
