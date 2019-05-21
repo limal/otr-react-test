@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 20px;
+}
+
+.App__Header {
+  margin: 20px 0 40px 0;
+}
+
+.Books {
+  flex: 1;
+}
+
+.BooksList {
+  margin: 20px 0;
+  max-width: calc(100vw - 40px);
+  overflow: hidden;
+}
+
+.BooksList__Item--Alternate {
+  background: #f7f7f7;
+}
+
+.BooksList__Item__Id {
+  font-weight: bold;
+}
+
+.BooksList__Item__Title {
+  color: #555;
+}
+
+.Pagination {
+  cursor: pointer;
+  max-width: calc(100vw - 40px);
+  overflow: hidden;
+}
